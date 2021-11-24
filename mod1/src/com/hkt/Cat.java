@@ -6,6 +6,6 @@ public class Cat extends Animal{
         System.out.println("我是小猫，可以喵喵叫");
     }
     public void scratch(){
-        System.out.println("我是小猫，我可以挠人");
+        System.out.println("我是小猫MI，我可以挠人");
     }
 }
